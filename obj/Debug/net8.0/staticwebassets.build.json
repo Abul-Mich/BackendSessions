@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "6WdjCEokjhCFiUEJaJ/tNrxNh2M7JZvn+1HNjSUQ6ho=",
+  "Source": "MyApi",
+  "BasePath": "_content/MyApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyApi\\wwwroot",
+      "Source": "MyApi",
+      "ContentRoot": "C:\\Users\\micho\\OneDrive\\Desktop\\InMind\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\micho\\OneDrive\\Desktop\\InMind\\MyApi\\wwwroot\\images\\student_1_bb545b72-23be-4c3f-869a-4be87d04f965.jpeg",
+      "SourceId": "MyApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\micho\\OneDrive\\Desktop\\InMind\\MyApi\\wwwroot\\",
+      "BasePath": "_content/MyApi",
+      "RelativePath": "images/student_1_bb545b72-23be-4c3f-869a-4be87d04f965.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\student_1_bb545b72-23be-4c3f-869a-4be87d04f965.jpeg"
+    }
+  ]
+}
