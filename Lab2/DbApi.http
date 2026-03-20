@@ -1,0 +1,6 @@
+@DbApi_HostAddress = http://localhost:5290
+
+GET {{DbApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
